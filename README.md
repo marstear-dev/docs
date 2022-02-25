@@ -28,3 +28,12 @@ If you are a foreign user, please use the translation service or refer to the do
 |  https://marstear.com  |
 
 これは、事前予告なしに変更される場合があります。
+
+## 利用制約について
+　MarsTearでは、ご利用者の皆様に安定したパフォーマンスを提供するため、以下の利用制約がございます。
+  |  アクション  |  制限  |
+| ---- | ---- |
+|  連続攻撃時間  |  一回の攻撃につき120秒まで  |
+|  一日の最大攻撃時間  |  一日1200秒まで  |
+
+これは、事前予告なしに変更される場合があります。
